@@ -28,4 +28,6 @@ $RECYCLE.BIN/
 *.lnk
 
 # End of https://www.toptal.com/developers/gitignore/api/windows
-jikken4/test.txt
+/jikken4/test.txt
+/jikken4/__pycache__/
+/jikken4/pic/
